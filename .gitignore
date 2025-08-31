@@ -1,0 +1,48 @@
+# Build directories
+build/
+cmake-build-*/
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+cmake_install.cmake
+Makefile
+*.cmake
+
+# Qt Creator user files
+*.user
+*.user.*
+
+# Compiled binaries
+*.exe
+*.out
+kaspersky
+
+# Object files
+*.o
+*.obj
+*.so
+*.dll
+*.a
+*.lib
+
+# Debug files
+*.pdb
+
+# Log files
+*.log
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Project specific ignores
+Условие.pdf
